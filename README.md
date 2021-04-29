@@ -1,4 +1,8 @@
-# Python: Getting Started
+# Tutorial found in Heroku Dev Center
+## Url - https://devcenter.heroku.com/articles/getting-started-with-python
+
+
+## Python: Getting Started
 
 A barebones Django app, which can easily be deployed to Heroku.
 
